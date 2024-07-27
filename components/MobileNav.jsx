@@ -54,7 +54,7 @@ const MobileNav = () => {
             <div className="flex items-center justify-between w-full">
               <div>
                 <Image
-                  src={"/assets/connes (1).png"}
+                  src={"/mobile-logo.png"}
                   alt="logo"
                   width={80}
                   height={80}

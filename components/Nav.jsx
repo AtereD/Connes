@@ -34,7 +34,7 @@ const Nav = () => {
     <nav className={`bg-[#fbd0da] h-[100px] ${montserrat.className} font-bold flex items-center`}>
       <div className="flex items-center justify-between w-full h-full 2xl:px-16">
         <Link href="/#home" className="flex items-center">
-          <Image src={"/assets/connes.png"} alt="logo" width={100} height={100}  className=" lg:ml-10 h-[80px]"/>
+          <Image src={"/logo.png"} alt="logo" width={100} height={100}  className=" lg:ml-10 h-[80px]"/>
         </Link>
         {/* Desktop View */}
         <div className="items-center hidden w-full pl-10 justify-evenly lg:flex">
